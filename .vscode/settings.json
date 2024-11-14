@@ -1,0 +1,14 @@
+[
+    {
+    "liveServer.settings.port": 5501
+},
+{
+    "name": "if0_37714545",
+    "host": "ftpupload.net",
+    "port": 21,
+    "type": "ftp",
+    "username": "id",
+    "password": "UyoiqyISYxEJfq",
+    "path" : "/"
+}
+]
